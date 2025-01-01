@@ -7,6 +7,5 @@ import jakarta.persistence.*;
 public class Action {
     @Id
     @Column
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private String type;
 }
