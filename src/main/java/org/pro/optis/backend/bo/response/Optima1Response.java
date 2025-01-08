@@ -1,4 +1,4 @@
-package org.pro.optis.backend.bo;
+package org.pro.optis.backend.bo.response;
 
 public class Optima1Response {
     private double optimalCycleFrequency;

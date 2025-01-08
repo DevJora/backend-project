@@ -1,4 +1,4 @@
-package org.pro.optis.backend.bo;
+package org.pro.optis.backend.bo.request;
 
 public class Optima1Request {
     private double demand;
